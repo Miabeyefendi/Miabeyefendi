@@ -38,15 +38,6 @@ I like taking things apart to understand how they work — then building tools a
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miabeyefendi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miabeyefendi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 ### 💡 Philosophy
 
 > *I don't build products. I build solutions to problems that annoyed me enough to write code.*
