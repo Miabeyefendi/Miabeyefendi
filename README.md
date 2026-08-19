@@ -16,8 +16,6 @@
 ![Playwright](https://img.shields.io/badge/Playwright-1E293B?style=for-the-badge&logo=playwright&logoColor=0EA5E9)
 ![CSS](https://img.shields.io/badge/CSS-1E293B?style=for-the-badge&logo=css&logoColor=22C55E)
 
-**Desktop apps · browser automation · network protocols · theme and UI design**
-
 </div>
 
 ---
