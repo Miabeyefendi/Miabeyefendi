@@ -1,0 +1,47 @@
+# Builds the metrics panels and writes them into assets/. Runs as an action
+# rather than through the hosted renderer, so the images are files in this
+# repository rather than requests to someone else's server.
+#
+# BEFORE THIS CAN RUN: create a classic personal access token with the
+# public_repo and read:user scopes, and add it to this repository as a secret
+# named METRICS_TOKEN. Settings > Secrets and variables > Actions.
+# Until that exists this workflow fails, which is why the README does not link
+# to its output yet. Add the two images once the first run succeeds.
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  overview:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Languages and activity
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}
+          filename: assets/metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Istanbul
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_lines: yes
+
+      - name: Isometric commit calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}
+          filename: assets/metrics-isocalendar.svg
+          base: ""
+          config_timezone: Europe/Istanbul
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
