@@ -17,6 +17,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # git-auto-commit needs a checked out repository to commit into.
+      - uses: actions/checkout@v4
+
       - name: Generate
         uses: Platane/snk@v3
         id: snake
