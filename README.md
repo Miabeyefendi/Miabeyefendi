@@ -50,7 +50,7 @@ the same two rules: **never faster than a person**, and **never ask for a passwo
 | 📨 **[IG-DMKeep](https://github.com/Miabeyefendi/IG-DMKeep)** | Saves your own Instagram conversations, media included, entirely in the browser |
 | 📸 **[IG-Munfollow](https://github.com/Miabeyefendi/IG-Munfollow)** | Seven filters over your following list, then bulk unfollow |
 | 🐍 **[IG-Munliker](https://github.com/Miabeyefendi/IG-Munliker)** | Clears the like history while behaving like a phone, not a loop |
-| 🧠 **[llm-prompts-collection](https://github.com/Miabeyefendi/llm-prompts-collection)** | 63 prompts, eleven categories, plain text so nothing is mangled on the way out |
+| 🧠 **[LLM-Prompt-Collection](https://github.com/Miabeyefendi/LLM-Prompt-Collection)** | 63 prompts, eleven categories, plain text so nothing is mangled on the way out |
 
 <div align="center">
 <sub>Every one of them is documented in <b>English · Türkçe · Español · 简体中文 · Русский</b></sub>
