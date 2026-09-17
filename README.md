@@ -62,11 +62,6 @@ the same two rules: **never faster than a person**, and **never ask for a passwo
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="86%" alt="Contribution calendar rendered as an isometric night scene with a rainbow gradient">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg">
-  <img src="./assets/snake.svg" width="86%" alt="A snake eating this year's contribution squares">
-</picture>
-
 <br/>
 
 [![GitHub](https://img.shields.io/badge/@Miabeyefendi-0B0E14?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/Miabeyefendi)
