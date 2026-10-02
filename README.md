@@ -11,6 +11,7 @@
 ![C#](https://img.shields.io/badge/C%23-1E293B?style=for-the-badge&logo=csharp&logoColor=A78BFA)
 ![C++](https://img.shields.io/badge/C%2B%2B-1E293B?style=for-the-badge&logo=cplusplus&logoColor=A78BFA)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1E293B?style=for-the-badge&logo=javascript&logoColor=A78BFA)
+![Lua](https://img.shields.io/badge/Lua-1E293B?style=for-the-badge&logo=lua&logoColor=A78BFA)
 ![Node.js](https://img.shields.io/badge/Node.js-1E293B?style=for-the-badge&logo=nodedotjs&logoColor=0EA5E9)
 ![Electron](https://img.shields.io/badge/Electron-1E293B?style=for-the-badge&logo=electron&logoColor=0EA5E9)
 ![Playwright](https://img.shields.io/badge/Playwright-1E293B?style=for-the-badge&logo=playwright&logoColor=0EA5E9)
@@ -24,9 +25,10 @@
 
 ### I take a platform apart, then build the tool I wanted while I was inside it.
 
-Eight of them so far. A Spotify theme with its own settings engine, a Steam client<br/>
-replacement that never opens Steam, and a shelf of automation tools that all obey<br/>
-the same two rules: **never faster than a person**, and **never ask for a password**.
+Eleven of them so far. A Spotify theme in two editions, a Steam client replacement<br/>
+that never opens Steam, two maps for The Blood of Dawnwalker, and a shelf of<br/>
+automation tools that all obey the same two rules:<br/>
+**never faster than a person**, and **never ask for a password**.
 
 </div>
 
@@ -44,7 +46,10 @@ the same two rules: **never faster than a person**, and **never ask for a passwo
 | | |
 |---|---|
 | 🎨 **[Vantagraph](https://github.com/Miabeyefendi/Vantagraph)** | Spicetify theme for Spotify. 11 palettes, in-app settings panel, 66 hand-drawn icons, PiP lyric karaoke |
+| 🖌️ **[Vantagraph-Custom](https://github.com/Miabeyefendi/Vantagraph-Custom)** | The lite edition. No presets: 36 colours set from an in-app editor with eyedropper and shareable palettes |
 | 🎮 **[SteamEdge](https://github.com/Miabeyefendi/SteamEdge)** | Farms cards, banks playtime and writes achievements by speaking Steam's protocol. Steam never opens |
+| 🗺️ **[ValeSangora-InGameMap](https://github.com/Miabeyefendi/ValeSangora-InGameMap)** | 1799 markers in 79 categories, drawn on The Blood of Dawnwalker's own map. A UE4SS Lua mod, one folder |
+| 🧭 **[vale-sangora-live-map](https://github.com/Miabeyefendi/vale-sangora-live-map)** | A live map over the game on Alt+CapsLock. Follows you, marks shrines, camps, quests and chests as you clear them |
 | 🎬 **[Letterboxd-Munfollow](https://github.com/Miabeyefendi/Letterboxd-Munfollow)** | Finds who never followed back. Unfollow, block or unblock in bulk |
 | 🎬 **[Letterboxd-Masfollow](https://github.com/Miabeyefendi/Letterboxd-Masfollow)** | The other direction. Targets real accounts, skips the dead ones |
 | 📨 **[IG-DMKeep](https://github.com/Miabeyefendi/IG-DMKeep)** | Saves your own Instagram conversations, media included, entirely in the browser |
@@ -53,7 +58,7 @@ the same two rules: **never faster than a person**, and **never ask for a passwo
 | 🧠 **[LLM-Prompt-Collection](https://github.com/Miabeyefendi/LLM-Prompt-Collection)** | 63 prompts, eleven categories, plain text so nothing is mangled on the way out |
 
 <div align="center">
-<sub>Every one of them is documented in <b>English · Türkçe · Español · 简体中文 · Русский</b></sub>
+<sub>Every one of them is documented in <b>English · Türkçe · Español · 简体中文 · Русский</b>, except the live map, which is English only</sub>
 </div>
 
 ---
