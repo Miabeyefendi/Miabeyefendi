@@ -1,12 +1,17 @@
 # Renders the contribution calendar as isometric blocks. Ten variants are
 # produced; the README uses the night rainbow and the block build. Output is
 # committed, so nothing is fetched at view time.
+#
+# Manual, one-shot only: no schedule, so it never loops against the GitHub API.
+# Run it by hand from the Actions tab when the graph needs refreshing.
 name: 3D contribution graph
 
 on:
-  schedule:
-    - cron: "30 4 * * *"
   workflow_dispatch:
+
+concurrency:
+  group: 3d-contrib
+  cancel-in-progress: false
 
 permissions:
   contents: write
