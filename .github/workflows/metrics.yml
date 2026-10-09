@@ -9,9 +9,9 @@
 # to its output yet. Add the two images once the first run succeeds.
 name: Metrics
 
+# Manual only. It used to run daily and failed every time without the token,
+# which was wasted API traffic. Re-add a weekly schedule once the token exists.
 on:
-  schedule:
-    - cron: "0 5 * * *"
   workflow_dispatch:
 
 permissions:
