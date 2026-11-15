@@ -43,21 +43,21 @@ and a shelf of automation tools that all obey the same two rules:<br/>
 
 <br/>
 
-| | |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |---|---|
-| 🎨 **[Vantagraph](https://github.com/Miabeyefendi/Vantagraph)** | Spicetify theme for Spotify. 11 palettes, in-app settings panel, 66 hand-drawn icons, PiP lyric karaoke |
-| 🖌️ **[Vantagraph-Custom](https://github.com/Miabeyefendi/Vantagraph-Custom)** | The lite edition. No presets: 36 colours set from an in-app editor with eyedropper and shareable palettes |
-| 🎮 **[SteamEdge](https://github.com/Miabeyefendi/SteamEdge)** | Farms cards, banks playtime and writes achievements by speaking Steam's protocol. Steam never opens |
-| 🗺️ **[ValeSangora-InGameMap](https://github.com/Miabeyefendi/ValeSangora-InGameMap)** | 1816 markers, drawn on The Blood of Dawnwalker's own map. A UE4SS Lua mod, one folder |
-| 🧭 **[vale-sangora-live-map](https://github.com/Miabeyefendi/vale-sangora-live-map)** | A live map over the game on Alt+CapsLock. Follows you, marks shrines, camps, quests and chests as you clear them |
-| 🔀 **[Squad-SmartShuffle](https://github.com/Miabeyefendi/Squad-SmartShuffle)** | SquadJS plugin that rebalances teams from each match's stats, plus ModLoader recipes |
-| 🎙️ **[Squad-VoteTalkLimit](https://github.com/Miabeyefendi/Squad-VoteTalkLimit)** | Experimental ModLoader ruleset capping per-player talk time on the end-of-match vote screens. Two variants, untested |
+| 🎨 **[Vantagraph](https://github.com/Miabeyefendi/Vantagraph)** | Spicetify theme: 11 palettes, settings panel, 66 icons, lyric karaoke |
+| 🖌️ **[Vantagraph-Custom](https://github.com/Miabeyefendi/Vantagraph-Custom)** | The lite edition. 36 colours from an in-app editor, shareable palettes |
+| 🎮 **[SteamEdge](https://github.com/Miabeyefendi/SteamEdge)** | Farms cards, banks playtime, writes achievements. Steam never opens |
+| 🗺️ **[ValeSangora-InGameMap](https://github.com/Miabeyefendi/ValeSangora-InGameMap)** | 1816 markers on Dawnwalker's own map. A UE4SS Lua mod |
+| 🧭 **[ValeSangora-LiveMap](https://github.com/Miabeyefendi/ValeSangora-LiveMap)** | Live overlay map on Alt+CapsLock. Follows you, marks what you clear |
+| 🔀 **[Squad-SmartShuffle](https://github.com/Miabeyefendi/Squad-SmartShuffle)** | SquadJS plugin that rebalances teams from each match's stats |
+| 🎙️ **[Squad-VoteTalkLimit](https://github.com/Miabeyefendi/Squad-VoteTalkLimit)** | Experimental talk-time cap for end-of-match votes. Untested |
 | 🎬 **[Letterboxd-Munfollow](https://github.com/Miabeyefendi/Letterboxd-Munfollow)** | Finds who never followed back. Unfollow, block or unblock in bulk |
 | 🎬 **[Letterboxd-Masfollow](https://github.com/Miabeyefendi/Letterboxd-Masfollow)** | The other direction. Targets real accounts, skips the dead ones |
-| 📨 **[IG-DMKeep](https://github.com/Miabeyefendi/IG-DMKeep)** | Saves your own Instagram conversations, media included, entirely in the browser |
+| 📨 **[IG-DMKeep](https://github.com/Miabeyefendi/IG-DMKeep)** | Saves your Instagram conversations, media included, in the browser |
 | 📸 **[IG-Munfollow](https://github.com/Miabeyefendi/IG-Munfollow)** | Seven filters over your following list, then bulk unfollow |
 | 🐍 **[IG-Munliker](https://github.com/Miabeyefendi/IG-Munliker)** | Clears the like history while behaving like a phone, not a loop |
-| 🧠 **[LLM-Prompt-Collection](https://github.com/Miabeyefendi/LLM-Prompt-Collection)** | 63 prompts, eleven categories, plain text so nothing is mangled on the way out |
+| 🧠 **[LLM-Prompt-Collection](https://github.com/Miabeyefendi/LLM-Prompt-Collection)** | 63 prompts in eleven categories, kept as plain text |
 
 <div align="center">
 <sub>Every one of them is documented in <b>English · Türkçe · Español · 简体中文 · Русский</b>, except the live map, which is English only</sub>
