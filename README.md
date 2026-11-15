@@ -25,9 +25,9 @@
 
 ### I take a platform apart, then build the tool I wanted while I was inside it.
 
-Eleven of them so far. A Spotify theme in two editions, a Steam client replacement<br/>
-that never opens Steam, two maps for The Blood of Dawnwalker, and a shelf of<br/>
-automation tools that all obey the same two rules:<br/>
+Thirteen of them so far. A Spotify theme in two editions, a Steam client replacement<br/>
+that never opens Steam, two maps for The Blood of Dawnwalker, two Squad server mods,<br/>
+and a shelf of automation tools that all obey the same two rules:<br/>
 **never faster than a person**, and **never ask for a password**.
 
 </div>
@@ -48,8 +48,10 @@ automation tools that all obey the same two rules:<br/>
 | 🎨 **[Vantagraph](https://github.com/Miabeyefendi/Vantagraph)** | Spicetify theme for Spotify. 11 palettes, in-app settings panel, 66 hand-drawn icons, PiP lyric karaoke |
 | 🖌️ **[Vantagraph-Custom](https://github.com/Miabeyefendi/Vantagraph-Custom)** | The lite edition. No presets: 36 colours set from an in-app editor with eyedropper and shareable palettes |
 | 🎮 **[SteamEdge](https://github.com/Miabeyefendi/SteamEdge)** | Farms cards, banks playtime and writes achievements by speaking Steam's protocol. Steam never opens |
-| 🗺️ **[ValeSangora-InGameMap](https://github.com/Miabeyefendi/ValeSangora-InGameMap)** | 1799 markers in 79 categories, drawn on The Blood of Dawnwalker's own map. A UE4SS Lua mod, one folder |
+| 🗺️ **[ValeSangora-InGameMap](https://github.com/Miabeyefendi/ValeSangora-InGameMap)** | 1816 markers, drawn on The Blood of Dawnwalker's own map. A UE4SS Lua mod, one folder |
 | 🧭 **[vale-sangora-live-map](https://github.com/Miabeyefendi/vale-sangora-live-map)** | A live map over the game on Alt+CapsLock. Follows you, marks shrines, camps, quests and chests as you clear them |
+| 🔀 **[Squad-SmartShuffle](https://github.com/Miabeyefendi/Squad-SmartShuffle)** | SquadJS plugin that rebalances teams from each match's stats, plus ModLoader recipes |
+| 🎙️ **[Squad-VoteTalkLimit](https://github.com/Miabeyefendi/Squad-VoteTalkLimit)** | Experimental ModLoader ruleset capping per-player talk time on the end-of-match vote screens. Two variants, untested |
 | 🎬 **[Letterboxd-Munfollow](https://github.com/Miabeyefendi/Letterboxd-Munfollow)** | Finds who never followed back. Unfollow, block or unblock in bulk |
 | 🎬 **[Letterboxd-Masfollow](https://github.com/Miabeyefendi/Letterboxd-Masfollow)** | The other direction. Targets real accounts, skips the dead ones |
 | 📨 **[IG-DMKeep](https://github.com/Miabeyefendi/IG-DMKeep)** | Saves your own Instagram conversations, media included, entirely in the browser |
